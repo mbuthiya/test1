@@ -82,44 +82,48 @@ img {
 }
 
 .details h3{
-    font-size: 30px;
+    font-size: 15px;
     margin-left: 10px;
     color: #BF251D;
     font-weight: bold;
-    
+    margin-bottom: 4%;
+    font-family: Arial, Helvetica, sans-serif;    
 }
 .about-me h5{
     text-transform: capitalize;
     padding-left: 25px;
-    font-size: 16px;
-    font-weight: bold;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+   
 }
 .about-me ul{
-     padding-left: 50px;
+      padding-left: 35px;
      list-style-type: circle;
      font-weight: bold;
+     font-family: Arial, Helvetica, sans-serif;
 
 }
 .about-me ul li{
-     
+     margin-bottom: 2%;
      color:black;
 }
 .projects{
      padding-left: 25px;
 }
 .projects h4{
-    color:black;
-    font-weight: bold;
+   
     font-size: 20px;
     text-transform: capitalize;
-    text-decoration: underline;
+    font-weight: bold;
+    font-family: serif;
     
 }
 .projects p{
-    font-size: 15px;
-    font-weight: bold;
+    font-size: 14px;
+    
     text-transform: capitalize;
-    padding-left: 25px;
+    padding-right: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 .tools{
@@ -134,10 +138,12 @@ img {
     font-size: 20px;
     text-transform: capitalize;
     text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .humble p{
     font-size: 15px;
     font-weight: bold;
     text-transform: capitalize;
     padding-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
 }
